@@ -1,0 +1,11 @@
+scipy
+numpy
+flask
+gunicorn
+flask_cors
+librosa
+sklearn
+request
+jsonify
+flask_cors
+sounddevice
